@@ -294,6 +294,7 @@ a:hover {
 
 .navbar-brand {
     height: auto;
+    width: auto;
     padding: 3px 15px;
     font-size: 25px;
     font-weight: normal;
@@ -749,6 +750,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    height: auto;
+    width: auto;
 }
 
 .portfolio-row {
